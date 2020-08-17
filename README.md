@@ -1,5 +1,5 @@
 # TFRimage
-Experimental minimal tool to create TFRecords from a **small dataset** of images (few thousand images max). Based on code from [create_tfrecords](https://github.com/kwotsin/create_tfrecords) but adapted to Tensorflow 2.0 with some changes. 
+An experimental minimal tool to create TFRecords from a **small dataset** of images (few thousand images max). Based on code from [create_tfrecords](https://github.com/kwotsin/create_tfrecords) but adapted to Tensorflow 2.0 with some changes. 
 
 ## 📋 Installation
 ```bash

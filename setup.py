@@ -6,6 +6,7 @@ setup(
     name="tfr_image",
     version="1.0",
     license='MIT',
+    url='https://github.com/jmarrietar/tfr_image',
     description="TFRimage is minimal tool to create TFRecords from a small dataset of images",
     packages=find_packages(),
 )
