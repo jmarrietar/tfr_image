@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 REQUIRED_PACKAGES = ["tensorflow == 2.2.0"]
 
-with open(path.join(here, 'README.md'), encoding='utf-8') as f:
+with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
